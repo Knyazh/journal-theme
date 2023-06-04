@@ -36,33 +36,4 @@
 .header-top-class{
     height: 35px;
 }
-/* Reset default styles */
-input[type="search"] {
-    -webkit-appearance: none;
-       -moz-appearance: none;
-            appearance: none;
-    border: none;
-    outline: none;
-    background: none;
-  }
-  
-  /* Styling the search input */
-  input[type="search"] {
-    border-radius: 5px;
-    padding: 8px 12px;
-    width: 200px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-  
-  /* Styling the placeholder text */
-  input[type="search"]::placeholder {
-    color: #999;
-    font-style: italic;
-  }
-  
-  /* Styling the search input when focused */
-  input[type="search"]:focus {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    border: 1px solid #ccc;
-  }
-  
+

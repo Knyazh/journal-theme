@@ -1,0 +1,71 @@
+input[type="search"] {
+    border: none;
+    outline: none;
+    background: none;
+  }
+  
+  input[type="search"] {
+    padding: 8px 12px;
+    width: 650px;
+    background-color: #999;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  input[type="search"]::placeholder {
+    color: #999;
+    font-style: italic;
+  }
+  
+  input[type="search"]:focus {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ccc;
+  }
+  .header-mid-div{
+    width: 93%;
+    margin: 0 auto;
+    height: 70px;
+  }
+  #header-mid{
+    background: rgba(20, 20, 20, 1);
+    color:rgba(165,165,165,1) ;
+  }
+  .header-mid-text h1{
+    pad: 18px 18px 18px 0px;
+    font-size: 25px;
+    color: #ffffff;
+  }
+  .header-mid-text a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 25px;
+    margin-left: 15px;
+  }
+  .header-mid-ul{
+    text-decoration: none;
+    list-style-type: none;
+  }
+  .header-mid-ul li a{
+   color: #999;
+  }
+  .header-mid-ul li a i{
+    font-size: 30px;
+    margin-left: 15px;
+    padding: 5px;
+  }
+  .shopping-logo{
+    color: aliceblue ;
+    background-color: blue;
+    border-radius: 5px;
+}
+.search-bar h3{
+  font-size: 15px;
+  color: #ffffff  ;
+  background-color: blue;
+  padding: 7px 8px;
+}
+.search-bar a{
+  font-size: 15px;
+  color: #ffffff  ;
+  background-color: blue;
+  padding: 7px 10px;
+}
