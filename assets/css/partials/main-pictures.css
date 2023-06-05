@@ -24,3 +24,8 @@
     font-size:  45px; ;
     color: rgb(47, 47, 178);
    }
+   @media (max-width: 400px){
+    .mainimg{
+        width: 100%;
+    }
+   }
